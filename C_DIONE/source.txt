@@ -1,0 +1,11 @@
+pomme =897676764344676545687876565
+pomme = pomme * pomme
+pomme = pomme - 7867656443555498966543
+banane = 98987676565
+   banane = 3 * banane
+
+pomme=pomme - banane
+print pomme
+print                     banane
+fraise=   pomme  - -565543443423
+print fraise
